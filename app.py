@@ -28,7 +28,7 @@ alcohol = go.Bar(
     x=beers,
     y=abv_values,
     name=label2,
-    marker={'color2':'blue'}
+    marker={'color':'blue'}
 )
 
 beer_data = [bitterness, alcohol]
