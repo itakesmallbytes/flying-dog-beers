@@ -7,8 +7,8 @@ import plotly.graph_objs as go
 beers=['Blood Orange Ale', 'Snake Dog IPA', 'Imperial Porter', 'Double Dog IPA']
 ibu_values=[40, 60, 85, 75]
 abv_values=[7.0, 7.1, 9.2, 4.3]
-color1='lightblue'
-color2='darkgreen'
+color1='darkgreen'
+color2='blue'
 mytitle='Beer Comparison'
 tabtitle='beer!'
 myheading='Flying Dog Beers'
